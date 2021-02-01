@@ -1,5 +1,5 @@
 title: Dikson Rodrigues
-description: Full Stack Developer 
+description: Full Stack Developer / Data Scientist 
 site_title: '@dr - Dikson Rodrigues'
 
 # Build settings
@@ -7,15 +7,15 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: DiksonRodrigues
+blog_url: https://github.com/DiksonRodrigues
+email: eoscreativetech@gmail.com
+keybase_username: 
+twitter_username: 
+reddit_username: 
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/dik.jpeg
 
 # Google Analytics ID
 google_analytics: 
