@@ -17,7 +17,7 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/mentors.jpg',
-            link: 'https://github.com/abhn/Mporter',
+            link: 'meconta.vercel.app',
             title: 'MeConta',
             demo: 'meconta.vercel.app',
             technologies: ['Flask', 'Celery', 'Python'],
