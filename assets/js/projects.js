@@ -24,6 +24,15 @@ let render_projects = (slug) => {
             description: "Trata-se de um pequeno sistema que captura a opnião do cliente e ao final lhe dar um desconto gerando um cupom.",
             categories: ['featured', 'webdev']
         },
+        {
+            image: 'assets/images/appescolas.JPG',
+            link: 'https://github.com/DiksonRodrigues/AppEscolas',
+            title: 'AppEscolas',
+            demo: '',
+            technologies: ['React-Native', 'FireBase', 'API-YouTube', 'Rubi', 'Java'],
+            description: "Aplicativo estava sendo criado no periodo de pandemia, para auxiliar as escolas. Podendo ministrar aulas online ! ",
+            categories: ['featured', 'native']
+        },
         
     ]
 
