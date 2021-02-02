@@ -16,12 +16,12 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/meconta.jpeg',
+            image: 'assets/images/meconta.JPG',
             link: 'https://meconta.vercel.app',
             title: 'MeConta',
             demo: 'meconta.vercel.app',
-            technologies: ['Flask', 'Celery', 'Python'],
-            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
+            technologies: ['Next.Js', 'Vercel', 'React'],
+            description: "Trata-se de um pequeno sistema que captura a opnião do cliente e ao final lhe dar um desconto gerando um cupom.",
             categories: ['featured', 'webdev']
         },
         {
