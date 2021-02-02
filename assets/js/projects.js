@@ -1,3 +1,8 @@
+//VOU DEIXAR COMO EXEMPLO PARA CRIAR OUTRA DEPOIS
+
+
+
+
 $(document).ready(() => {
     render_projects('featured');
 })
