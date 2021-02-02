@@ -16,7 +16,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/mentors.jpg',
+            image: 'assets/images/meconta.jpeg',
             link: 'https://meconta.vercel.app',
             title: 'MeConta',
             demo: 'meconta.vercel.app',
@@ -70,7 +70,7 @@ let render_projects = (slug) => {
             categories: ['native']
         },
         {
-            image: 'assets/images/raspberry-pi-monitor.png',
+            image: 'assets/images/meconta.jpeg',
             link: 'https://github.com/abhn/RPi-Status-Monitor',
             title: 'Raspberry Pi Monitor',
             demo: false,
@@ -79,7 +79,7 @@ let render_projects = (slug) => {
             categories: ['webdev', 'diy']
         },
         {
-            image: 'assets/images/s3scan.png',
+            image: 'assets/images/meconta.jpeg',
             link: 'https://github.com/abhn/S3Scan',
             title: 'S3Scan',
             demo: false,
