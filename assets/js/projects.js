@@ -20,7 +20,7 @@ let render_projects = (slug) => {
             demo: 'meconta.vercel.app',
             technologies: ['Next.Js', 'Vercel', 'React'],
             description: "Trata-se de um pequeno sistema que captura a opnião do cliente e ao final lhe dar um desconto gerando um cupom.",
-            categories: ['featured', 'webdev']
+            categories: ['featured', 'webdev','all']
         },
         {
             image: 'assets/images/appescolas.JPG',
@@ -29,7 +29,7 @@ let render_projects = (slug) => {
             demo: '',
             technologies: ['React-Native', 'FireBase', 'API-YouTube', 'Rubi', 'Java'],
             description: "Aplicativo estava sendo criado no periodo de pandemia, para auxiliar as escolas. Podendo ministrar aulas online ! ",
-            categories: ['featured', 'native']
+            categories: ['featured', 'native','all']
         },
         {
             image: 'assets/images/air.png',
@@ -38,7 +38,7 @@ let render_projects = (slug) => {
             demo: '',
             technologies: ['React-Native', 'ReactJs', 'NodeJs'],
             description: "Aplicativo feito durante a semana Omnistack ! ",
-            categories: ['featured', 'native','webdev']
+            categories: ['featured', 'native','webdev','all']
         },
         {
             image: 'assets/images/ecoleta.png',
@@ -47,7 +47,7 @@ let render_projects = (slug) => {
             demo: '',
             technologies: ['React-Native', 'ReactJs', 'NodeJs'],
             description: "Aplicativo desenvolvido para COLETA SELETIVA ! ",
-            categories: ['featured', 'native','webdev']
+            categories: ['featured', 'native','webdev','all']
         },
         
     ]
