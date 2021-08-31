@@ -31,6 +31,24 @@ let render_projects = (slug) => {
             description: "Aplicativo estava sendo criado no periodo de pandemia, para auxiliar as escolas. Podendo ministrar aulas online ! ",
             categories: ['featured', 'native']
         },
+        {
+            image: 'assets/images/air.png',
+            link: 'https://github.com/DiksonRodrigues/AirCnc',
+            title: 'AirCnc',
+            demo: '',
+            technologies: ['React-Native', 'ReactJs', 'NodeJs'],
+            description: "Aplicativo feito durante a semana Omnistack ! ",
+            categories: ['featured', 'native','webdev']
+        },
+        {
+            image: 'assets/images/ecoleta.png',
+            link: 'https://github.com/DiksonRodrigues/e-coleta',
+            title: 'E-coleta',
+            demo: '',
+            technologies: ['React-Native', 'ReactJs', 'NodeJs'],
+            description: "Aplicativo desenvolvido para COLETA SELETIVA ! ",
+            categories: ['featured', 'native','webdev']
+        },
         
     ]
 
