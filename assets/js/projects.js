@@ -49,6 +49,15 @@ let render_projects = (slug) => {
             description: "Aplicativo desenvolvido para COLETA SELETIVA ! ",
             categories: ['featured', 'native','webdev','all']
         },
+        {
+        image: 'assets/images/manga.png',
+        link: 'https://github.com/DiksonRodrigues/quadrinhos-mangar',
+        title: 'Quadrinhos',
+        demo: '',
+        technologies: ['React-Native', 'ReactJs', 'NodeJs', 'ElectronJs'],
+        description: "Sistema para novos animes e quadrinhos disponivel apenas Desktop ! ",
+        categories: ['native','webdev','all']
+    },
         
     ]
 
